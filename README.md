@@ -1,6 +1,6 @@
 <div align="center">
 
-# 李欣航
+# Jay-118
 
 <sub>哈尔滨工程大学 · 信息安全本科</sub>
 
@@ -28,11 +28,11 @@
 | :--- | :--- |
 | 🔭 **Currently** | AI Agent 安全管控 · 自动化渗透测试智能体 |
 | 🌱 **Learning** | AI for Sec（LLM Agent / RAG 落地）、Sec for AI（智能体风险治理） |
-| 👀 **Open to** | 2027 届 安全工程师 / AI 安全 校招机会 |
+| 🧰 **Building** | 自动化渗透测试智能体、LLM 安全扫描与风险研判流水线 |
 
 ---
 
-## 💼 实习经历 <sub>· Experience</sub>
+## 💼 经历 <sub>· Experience</sub>
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 [![Email](https://img.shields.io/badge/Email-3567192562%40qq.com-D14836?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:3567192562@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Jay--118-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay-118)
 
-<sub>完整简历可邮件索取 ✉️</sub>
+<sub>欢迎交流 Web 安全 / AI 安全 ✉️</sub>
 
 <br/>
 
